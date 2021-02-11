@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.exchange{
+    border: 5px double red;
+    text-align: center;
+    margin: 5rem auto;
+    padding: 20px 0;
+}
+#inp{
+    width: 80%;
+    display: block;
+    margin: auto;
+    outline: none;
+    padding: 10px 5px;
+}
+button{
+    margin-top: 15px;
+    background-color: royalblue;
+    color: #ffffff;
+    padding: 15px 0px;
+    width: 80%;
+    display: block;
+    outline: none;
+    border: none;
+}
+
+i{
+    color: red;
+    text-align: center;
+    margin-top: 15px;
+}
